@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181081747320",
+    "project_id": "join-howdy",
+    "storage_bucket": "join-howdy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181081747320:android:8ea52430ce027b932fa28d",
+        "android_client_info": {
+          "package_name": "one.orae.howdy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfSEgjW-6Z5RDv4aLKXJ_f12X5gFXVS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
